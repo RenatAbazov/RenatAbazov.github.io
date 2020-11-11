@@ -1,4 +1,8 @@
 h1 {
   font-size: 50px;
-  color: red;
+  text-align: center;
+}
+body{
+  background-color: #ffe6f7;
+  text-align: center;
 }
