@@ -1,8 +1,21 @@
-h1 {
-  font-size: 50px;
-  text-align: center;
+/* Renat Abazov
+Style sheet for personal branding website */
+
+.header {
+  height: 125px;
+  padding: 10px;
+  background: #e76f51;
+  color: white;
+  font-size: 30px;
+  margin: 4px 5%;
 }
-body{
-  background-color: #ffe6f7;
-  text-align: center;
+.title{
+  float:left;
+}
+.contents{
+  color: #6d6875;
+  background-color: #ffddd2;
+  height: 800px;
+  margin: 0 5%;
+  padding: 20px;
 }
