@@ -2,6 +2,7 @@
 Style sheet for personal branding website */
 
 .header {
+  font-family: Helvetica;
   height: 125px;
   padding: 10px;
   background: #e76f51;
@@ -13,8 +14,9 @@ Style sheet for personal branding website */
   float:left;
 }
 .contents{
+  font-family: Helvetica;
   color: #6d6875;
-  background-color: #ffddd2;
+  background-color: #e9cfbe;
   height: 800px;
   margin: 0 5%;
   padding: 20px;
